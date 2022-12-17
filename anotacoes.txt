@@ -1,2 +1,5 @@
 Matheus Luís Webber
 Engenharia de Software II
+A aula sobre Git e Github para o controle de versões foi bem informativa,
+continha muitas informações interessantes das quais eu não sabia, mesmo
+já tendo usado o git antes.
